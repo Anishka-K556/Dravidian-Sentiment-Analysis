@@ -25,6 +25,6 @@ Text Processing: TF-IDF (Term Frequency-Inverse Document Frequency)
 Oversampling: SMOTE (Synthetic Minority Over-sampling Technique)
 
 # Authors
-K Anishka , *italic SSN College of Engineering , Tamil nadu , India*
+K Anishka , *SSN College of Engineering , Tamil nadu , India*
 
-Anne Jacika J , *italic SSN College of Engineering , Tamil nadu , India*
+Anne Jacika J , *SSN College of Engineering , Tamil nadu , India*
