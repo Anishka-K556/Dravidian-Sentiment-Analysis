@@ -1,5 +1,5 @@
 # Dravidian-Sentiment-Analysis
-Sentiment Analysis on Tamil and Tulu comments from social media containing imbalanced classes and transliterated texts including native script forms that classifies Tamil comments into four categories: Positive, Negative, Mixed Emotions, and Neutral and Tulu comments into five categories (additionaly Not tulu apart from the four metioned already).
+Sentiment Analysis on Tamil and Tulu comments from social media containing imbalanced classes and transliterated texts including native script forms that classifies Tamil comments into four categories: Positive, Negative, Mixed Emotions, and unkown state and Tulu comments into five categories positive, negative, mixed emotions, neutral and Not tulu.
 
 This project leverages various machine learning techniques and oversampling strategies to handle class imbalance and improve classification accuracy.
 # Features
