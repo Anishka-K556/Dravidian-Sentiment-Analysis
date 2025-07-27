@@ -18,7 +18,7 @@ Language: Python
 
 Libraries: scikit-learn, pandas, numpy, imbalanced-learn
 
-Models:   , Logistic Regression , Support Vector Machines (SVM)
+Models:Logistic Regression , Support Vector Machines (SVM)
 
 Text Processing: TF-IDF (Term Frequency-Inverse Document Frequency)
 
